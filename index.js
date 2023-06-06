@@ -45,11 +45,11 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/file/d/1H3co5FoEcrtLE6_CZXPZ5MqzJ8MW8shD/view?usp=sharing")
+window.open("https://drive.google.com/file/d/1Kdwk-aZbfIhNX5EkfbA-nkGcaJ7wm0h8/view?usp=sharing")
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-   window.open("https://drive.google.com/file/d/1H3co5FoEcrtLE6_CZXPZ5MqzJ8MW8shD/view?usp=sharing")
+   window.open("https://drive.google.com/file/d/1Kdwk-aZbfIhNX5EkfbA-nkGcaJ7wm0h8/view?usp=sharing")
   }
      
   
@@ -81,5 +81,5 @@ window.open("https://drive.google.com/file/d/1H3co5FoEcrtLE6_CZXPZ5MqzJ8MW8shD/v
 
   let goTOHackerrank= document.getElementById('goTOHackerrank')
   goTOHackerrank.addEventListener('click', ()=>{
-    location.href = 'https://www.hackerrank.com/kishansharma6377?hr_r=1'
+    location.href = 'https://www.hackerrank.com/nnadagoudar?hr_r=1'
   })
