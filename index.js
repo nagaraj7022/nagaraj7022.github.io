@@ -45,7 +45,7 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("./resume/Nagaraj_Nadagoudar_Resume.pdf")
+window.open("./resume/Nagaraj_Nadagoudar_Resume.pdf", "_blank")
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
