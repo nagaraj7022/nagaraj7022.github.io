@@ -45,11 +45,11 @@ function typeWriter() {
   });
 
   document.getElementById("resume-button-1").onclick=()=>{
-window.open("https://drive.google.com/file/d/1Kdwk-aZbfIhNX5EkfbA-nkGcaJ7wm0h8/view?usp=sharing")
+window.open("./resume/Nagaraj_Nadagoudar_Resume.pdf")
   }
 
   document.getElementById("resume-button-2").onclick=()=>{
-   window.open("https://drive.google.com/file/d/1Kdwk-aZbfIhNX5EkfbA-nkGcaJ7wm0h8/view?usp=sharing")
+   window.open("./resume/Nagaraj_Nadagoudar_Resume.pdf", "_blank")
   }
      
   
